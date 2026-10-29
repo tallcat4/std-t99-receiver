@@ -1,0 +1,16 @@
+{
+  "commit": "d1611fd408939ad238372d58828639e8fde28400",
+  "sha256": {
+    "apps/std_t98/dsp/rrc.cpp": "1df7ed4f28ef4a7eec155b5832d9b10d8d149a5497739cd4af5291bb93e8faff",
+    "apps/std_t98/dsp/rrc.hpp": "50f2214cd4be6780db86abf74e4eeb44fc6263068574ab8dc2d0597aa507fd9b",
+    "apps/std_t98/dsp/symbol_sync.cpp": "5143ff1796c80a771388ad82c7cf76612bb08f60e4505c2f238ab9c6be7a0da2",
+    "apps/std_t98/dsp/symbol_sync.hpp": "f7534ae7adbc8bbbba6873d457e03e38ca0453de49fbe97f0c40558db2e1bbca",
+    "dsp/include/spear/dsp/channelizer.hpp": "6176686a72e73dcf58f1170d916d4b06fa47ce2e10b9a1d6cade9bf98a40f45a",
+    "dsp/include/spear/dsp/fftw_planner.hpp": "ad11cce151ee96d10e320fd7cd51ec8312a7177bdcae13aba09870dc5ac10d3a",
+    "dsp/include/spear/dsp/fir.hpp": "3cf5aa16c898eda571fc5fd351885853ce12997a192f2e8f2e91db54c15aa5a3",
+    "dsp/include/spear/dsp/stage.hpp": "e1cb3c377f60278716c6a49abf1320dc9e7928f50c52e819fff0165ca6eacdfd",
+    "dsp/src/channelizer.cpp": "2c26eccf6848d7e3c1acec66b450d74ca4ecd8b87569790c03d92d0e1428399c",
+    "dsp/src/fftw_planner.cpp": "966e7a067c882685f5962ccbe72ab7991048c6fe65019fdbcb11323076a056c9",
+    "dsp/src/fir.cpp": "1d4f44581bcb0151d4e31c3956b39aa07fc677046dfe8ec46fa6ab1d5eedf3ca"
+  }
+}

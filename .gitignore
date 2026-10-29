@@ -1,0 +1,10 @@
+/build*/
+/receiver.conf
+*.burst
+*.llr
+*.jsonl
+*.cf32
+*.cu8
+*.dll
+__pycache__/
+/live/
