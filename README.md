@@ -2,7 +2,6 @@
 
 Windows PC + RTL-SDRで、ARIB STD-T99 Annex 2（デジタル小電力コミュニティ無線、通称デジコミ）の1チャネルを受信し、
 音声符号を`.burst`へ、識別情報・位置情報などを含む全フレームを`.jsonl`へ保存するCLIです。
-DSPはstd-t98-receiverと同じSPEAR由来の構成です。音声の復号（TOKUDER）はしません。
 
 ## 主な機能
 
